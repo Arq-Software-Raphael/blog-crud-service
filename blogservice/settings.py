@@ -136,7 +136,7 @@ REST_FRAMEWORK = {
 }
 
 SPECTACULAR_SETTINGS = {
-    'TITLE': 'Documentação da API de Blog',
+    'TITLE': 'Documentação da API dos Posts do Blog',
     'DESCRIPTION': 'API para gerenciamento de posts',
     'VERSION': '1.0.0',
 }
